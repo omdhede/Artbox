@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 > Create a `.env` file
 
 ```javascript
-    VITE_OPENAI_API_KEY=
+VITE_OPENAI_API_KEY=
 ```
 
 > Add the OpenAI Key to get access of Dall-E-3 model.
